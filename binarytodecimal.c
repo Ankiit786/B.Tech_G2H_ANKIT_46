@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <math.h>
+
+int main (){
+
+                int n ,r ,rev =0,p=0;
+                printf("enter binary number=");
+                scanf("%d",& n);
+                {
+                n=n/10 ;
+                if (r!=0);
+                {
+                         rev = rev +(int )pow (2,p);
+                }
+                n=n/10;
+                p++;
+                }
+                printf ("decimal number =%d",rev);
+                
+                return 0;
+                }
